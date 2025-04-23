@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @joseatw12
 - 👀 I’m interested in Tech, Finance, Music, Sports
-- 🌱 I’m currently learning Xcode App Development, React, AWS
 - 🫡 I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: jxa1648@miami.edu
 - ⚡ Fun fact: My favorite movie all time is Interstellar
